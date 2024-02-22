@@ -5,3 +5,5 @@
 ->This open-source project is for educational purposes only, with no commercial use allowed.
 
 ->Since it is an open source project so cpp files will be included in order to see how the game works.
+
+-> If you need to compile this cpp files make sure you have SFML setup and images and fonts address/path is correctly configured in the code
